@@ -1,7 +1,7 @@
 import React from 'react';
 import  "./style2.css";
 // import PropTypes from 'prop-types';
-import  './index.js';
+
 const item = (props) => {
 
  const showdetails =()=>{
